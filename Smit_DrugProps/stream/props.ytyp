@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CMapTypes>
+  <extensions/>
+  <archetypes>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="5000.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bbMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>
+				meth_table_prop
+			</name>
+      <textureDictionary>
+				meth_table_prop
+			</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>
+				prop_meth_table_prop
+			</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>
+				meth_table_prop
+			</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="5000.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bbMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>
+				powdertable_prop
+			</name>
+      <textureDictionary>
+				powdertable_prop
+			</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>
+				prop_powdertable_prop
+			</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>
+				powdertable_prop
+			</assetName>
+      <extensions/>
+    </Item>
+    <Item type="CBaseArchetypeDef">
+      <lodDist value="5000.00000000"/>
+      <flags value="32"/>
+      <specialAttribute value="0"/>
+      <bbMin x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bbMax x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsCentre x="0.00000000" y="0.00000000" z="0.00000000"/>
+      <bsRadius value="0.00000000"/>
+      <hdTextureDist value="5.00000000"/>
+      <name>
+				trap_table_prop
+			</name>
+      <textureDictionary>
+				trap_table_prop
+			</textureDictionary>
+      <clipDictionary/>
+      <drawableDictionary/>
+      <physicsDictionary>
+				prop_trap_table_prop
+			</physicsDictionary>
+      <assetType>ASSET_TYPE_DRAWABLE</assetType>
+      <assetName>
+				trap_table_prop
+			</assetName>
+      <extensions/>
+    </Item>
+  </archetypes>
+  <name>
+		smit_drugprops
+	</name>
+  <dependencies/>
+  <compositeEntityTypes/>
+</CMapTypes>
